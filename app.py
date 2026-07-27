@@ -4,7 +4,7 @@ import streamlit as st
 st.image("logo.jpg")
 
 # Tiêu đề
-st.title("APP TÍNH THUẾ THU NHẬP CÁ NHÂN")
+st.title("APP TÍNH THUẾ THU NHẬP CÁ NHÂN_PhamThiYenNhi")
 
 st.write("Nhập thu nhập tính thuế để tính số thuế phải nộp theo biểu thuế lũy tiến từng phần.")
 
